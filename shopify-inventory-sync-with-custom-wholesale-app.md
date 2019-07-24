@@ -1,4 +1,4 @@
-# shopify-wholesale-app-with-inventory-sync
+# shopify-inventory-sync-with-custom-wholesale-app
 
 #
 ## Intro - Sync your warehouse data to your store via Shopify RestAPI
